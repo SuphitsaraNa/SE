@@ -5,11 +5,12 @@ import java.io.*;
 
 class Plus{
 	public static void main (String args[]){
-		int num1 = 1,num2 = 1000,result=0;
+		int num1 = 1,num2 = 1000,result=8;
 		
-		result = ((num2-num1)/2)+1;
+		result = ((num2+num3)/7)+1;
 		result = ((num1+num2)*result)/2;
 		System.out.println ("" +result);
+		System.out.println ("In my mind so fuzzy" );
 		}
 		
 	}
